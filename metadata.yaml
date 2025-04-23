@@ -1,0 +1,25 @@
+_repo: Quer-durch-Amerika-b-Ein-Reisetagebuch_75888
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Busch, Karl Augst
+    gutenberg_agent_id: '58198'
+    url: http://www.gutenberg.org/2009/agents/58198
+description: ''
+gutenberg_issued: '2025-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75888'
+language: de
+pgterms:marc905: 20231003091002busch
+pgterms:marc906: '1926'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aDresden :$bDresdner Verlagshandlung M. O. Groh, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Quer durch Amerika : $b Ein Reisetagebuch'
+url: http://www.gutenberg.org/ebooks/75888
