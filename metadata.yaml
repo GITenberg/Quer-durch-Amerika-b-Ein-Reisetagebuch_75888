@@ -1,11 +1,16 @@
 _repo: Quer-durch-Amerika-b-Ein-Reisetagebuch_75888
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75888-h/images/cover.jpg
 creator:
   author:
     agent_name: Busch, Karl Augst
     gutenberg_agent_id: '58198'
     url: http://www.gutenberg.org/2009/agents/58198
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75888#Quer-durch-Amerika-b-Ein-Reisetagebuch
 gutenberg_issued: '2025-04-17'
 gutenberg_type: Text
 identifiers:
